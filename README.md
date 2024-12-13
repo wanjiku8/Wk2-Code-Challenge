@@ -1,5 +1,7 @@
 # Wk2-Code-Challenge
 
+https://wanjiku8.github.io/Wk2-Code-Challenge/
+
 # Shopping List
 
 A simple web application where users can add items, mark them as purchased, and clear the entire list.
